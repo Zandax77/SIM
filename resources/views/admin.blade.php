@@ -239,7 +239,7 @@
         </a>
         <ul id="kbm-nav" class="nav-content collapse" data-bs-parent="#sidebar-nav">
             <li>
-                <a href="https://presensisiswa.smkn6.com/public/rekapHarian" target="isinya">
+                <a href="https://absensiswa.skanamber.net/rekapHarian" target="isinya">
                     <i class="bi bi-circle"></i><span>Kehadiran Siswa</span>
                 </a>
 				<a href="https://presensisiswa.smkn6.com/rekapAbsen/rekap.php" target="isinya">
